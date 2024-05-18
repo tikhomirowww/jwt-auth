@@ -1,3 +1,4 @@
+[![Express Logo](https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png)](http://expressjs.com/)
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
 **Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org).**
